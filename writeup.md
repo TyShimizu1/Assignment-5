@@ -15,4 +15,5 @@ The purpose of the code in this file to my understanding is to record and manage
 
 
 # Summary
-Placeholder text.
+
+From the code in coverage that I read, I found the files to be very readable and able for me to understand. It is clear what every function does, and the comments on each function provide  precise and clear information on what each function does, how they do what they do, and why. I feel that while I maybe might be able to maintain the code, I would nhave difficukty updating it because it has a lot of functions that I haven't seen before so I don't know what something useful I could contribute to it would be. The code in many, if not all of the python files is miles better than what I am able to produce at this time. Additionally, the people who wrote the code have a much better understanding of it and are able to easily explain it in really simple terms using comments.
